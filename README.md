@@ -49,7 +49,7 @@ I hope you like it!  Free for personal use.  If do you like it, please consider 
 
 ### Getting Started
 
-1. **Open the HTML File**: Simply open `sql-Exploder-v10.html` in a modern web browser (Chrome, Firefox, Edge, or Safari)
+1. **Open the HTML File**: Simply open `sql-Exploder-v11.html` in a modern web browser (Chrome, Firefox, Edge, or Safari)
 
 2. **Upload SQL Files**: 
    - Click "Choose Files" and select one or more `.sql` files
@@ -200,7 +200,7 @@ Single HTML file containing:
 
 ## Version History
 
-### v10 (Current)
+### v11 (Current)
 - Explosion-style branding and icon
 - Optimized chunk-based parsing for large files
 - Enhanced error handling and logging
