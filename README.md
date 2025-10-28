@@ -1,6 +1,6 @@
 # SQL Exploder
 
-A powerful, browser-based SQL analysis and visualization tool that 'parses' (via pattern matching) SQL files and creates interactive dependency graphs showing relationships between files, tables, stored procedures, and string literals.  built with Claude and ChatGPT and me.
+A powerful, browser-based SQL analysis and visualization tool that 'parses' (via pattern matching) SQL files and creates interactive dependency graphs showing relationships between files, tables, stored procedures, and string literals.  Built with Claude and ChatGPT and me.
 
 ## Overview
 
@@ -13,7 +13,7 @@ I hope you like it!  Free for personal use.  If do you like it, please consider 
 
 ### Core Functionality
 - **Multi-file Analysis**: Upload and analyze multiple SQL files simultaneously
-- **Large File Support**: Efficiently handles files 6MB+ using chunk-based parsing
+- **Large File Support**: Efficiently handles files 6MB+ using chunk-based pattern matching
 - **Interactive Visualization**: Force-directed graph powered by D3.js
 - **Drag & Drop**: Simple file upload via drag-and-drop or file selector
 
@@ -42,7 +42,7 @@ I hope you like it!  Free for personal use.  If do you like it, please consider 
 
 ### Performance Features
 - **Async Processing**: Non-blocking file processing with progress indicators
-- **Chunk-Based Parsing**: Handles large files without freezing the browser
+- **Chunk-Based Pattern Matchign**: Handles large files without freezing the browser
 - **Console Logging**: Detailed progress tracking in browser console
 
 ## Usage
