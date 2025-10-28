@@ -1,6 +1,6 @@
 # SQL Exploder
 
-A powerful, browser-based SQL analysis and visualization tool that parses SQL files and creates interactive dependency graphs showing relationships between files, tables, stored procedures, and string literals.  built with Claude and ChatGPT and me.
+A powerful, browser-based SQL analysis and visualization tool that 'parses' (via pattern matching) SQL files and creates interactive dependency graphs showing relationships between files, tables, stored procedures, and string literals.  built with Claude and ChatGPT and me.
 
 ## Overview
 
